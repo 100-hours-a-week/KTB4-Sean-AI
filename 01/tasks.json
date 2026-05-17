@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "content": "1주차 강의 정리",
+        "done": true
+    },
+    {
+        "id": 2,
+        "content": "Git & Github 공부",
+        "done": false
+    },
+    {
+        "id": 3,
+        "content": "1주차 과제",
+        "done": false
+    }
+]
