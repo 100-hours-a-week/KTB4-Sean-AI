@@ -64,12 +64,16 @@
 ## 실행방법
 
 ### 가상환경
-`python3 -m venv .venv`
+`python3 -m venv .venv`  
+
 `source .venv/bin/activate`
 ### 라이브러리 설치
-`uv add "fastapi[standard]`
-`uv add sqlmodel`
-`uv add ollama`
+`uv add "fastapi[standard]`  
+
+`uv add sqlmodel`  
+
+`uv add ollama`  
+
 ### 실행
 `fastapi dev`
 ### 종료
