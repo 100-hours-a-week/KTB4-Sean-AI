@@ -1,5 +1,5 @@
 __pycache__/
 .venv/
 .env
-.python-version
-
+*.db
+.DS_Store
